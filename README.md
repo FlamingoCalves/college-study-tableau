@@ -8,7 +8,7 @@ The dataset `college_data.xlsx` is an Excel file that includes information such 
 
 ## Tableau Workbook
 
-The `College_Dashboard.twbx` Tableau workbook provides a detailed look at the visualization process and the final interactive map created in Tableau.
+The `U.S. Universities_ The Price of Admission.twbx` Tableau workbook provides a detailed look at the visualization process and the final interactive map created in Tableau.
 
 ## Visualization Overview
 
